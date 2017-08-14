@@ -1,0 +1,22 @@
+{
+  "name": "blockchainapi",
+  "version": "1.0.0",
+  "description": "express app to learn how to interact with the blockchain api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooklynebkbk/blockchainApi.git"
+  },
+  "author": "brooklyne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooklynebkbk/blockchainApi/issues"
+  },
+  "homepage": "https://github.com/brooklynebkbk/blockchainApi#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
