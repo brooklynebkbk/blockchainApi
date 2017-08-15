@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/brooklynebkbk/blockchainApi#readme",
   "dependencies": {
+    "bcrypt": "^1.0.2",
+    "blockchain.info": "^2.8.1",
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "express-session": "^1.15.5",
